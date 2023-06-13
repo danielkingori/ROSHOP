@@ -1,5 +1,4 @@
 # ROSHOP-Responsive Open Source Modular Housing Prototype
----
 # Pagirinya-Satellite-House
 ![](gallery.jpg)
 
