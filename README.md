@@ -3,8 +3,7 @@
 ![](gallery.jpg)
 
 ## We had fun!
-<video src="https://wikifactory.com/files/RmlsZTo5MDE2MTU=" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://wikifactory.com/files/RmlsZTo5MDE2MTU=" controls="controls" style="max-width: 730px;"> video</video>
 
 ## Background
 Pagirinya Satellite House is a sustainable ICT enhanced Social Network Space (SNS) aligned with YEF (Youth Empowerment Foundation, Adjumani) that targets bringing all the youth from different ethnic affiliation in Pagirinya and neighbouring South Sudan Refugees settlements and host communities in Uganda together for an engagement in;
